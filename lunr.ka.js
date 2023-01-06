@@ -1,8 +1,8 @@
 /*!
- * Lunr languages, `Tamil` language
- * https://github.com/tvmani/lunr-languages
+ * Lunr languages, `Georgian` language
+ * https://github.com/jshar/lunr-languages
  *
- * Copyright 2021, Manikandan Venkatasubban
+ * Copyright 2023, Jano Sharangia
  * http://www.mozilla.org/MPL/
  */
 /*!
